@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Presentation.Controllers.UserController",
+    "Method": "Test",
+    "RelativePath": "api/User/test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
